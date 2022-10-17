@@ -1,3 +1,6 @@
 Aprende commando sira iha git
 #koko commit file sira iha git
 #koko push ba git hub
+#kria web dinamis ho php
+#Desenho Website
+#kria Aplikasaun

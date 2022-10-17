@@ -1,0 +1,3 @@
+Aprende commando sira iha git
+#koko commit file sira iha git
+#koko push ba git hub
